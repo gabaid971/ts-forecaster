@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+plotly
+seaborn
+statsmodels
+scikit-learn
+scipy
+ipynb
+nbformat
+git+https://github.com/google-research/timesfm.git
+utilsforecast
+prophet
