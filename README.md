@@ -1,2 +1,2 @@
 # ts-forecaster
-benchmarks of some time series forecasting methods
+benchmark of some time series forecasting methods (TimesFM, Prophet, ARIMA, Random Forest...)
